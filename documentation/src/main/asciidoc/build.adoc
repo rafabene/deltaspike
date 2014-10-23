@@ -43,7 +43,7 @@ $ mvn clean install -POWB
 |===
 
 
-== Build and Test with Remote CDI Containers
+== Build and Test with CDI Containers
 Tests can be executed with JBoss Weld and Apache OpenWebBeans through Java EE 6+ application servers and containers. Configurations are currently provided as details in the table here. 
 
 [cols="2,3a", options="header"]
